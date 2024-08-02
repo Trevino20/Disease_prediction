@@ -1,0 +1,1 @@
+https://diseasepredictionmodel.streamlit.app/
